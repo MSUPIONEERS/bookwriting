@@ -1,0 +1,294 @@
+\documentclass[a4paper,twoside]{scrbook}
+\begin{document}
+\title{Computer Book for Millennials}
+\author{MSUPioneers}
+\frontmatter
+\maketitle
+\tableofcontents
+\mainmatter
+\chapter{Chapter1}\label{ch1}
+\section{Put a section heading here}\label{1.1}
+write here about 
+\section{Write a section title here}
+Write here you can copy the sections and just write what you want
+\section{Type Section heading here}
+write content here
+\section{Put a section heading here}
+write here 
+\section{Put a section heading here}
+write here
+\section{Put a section heading here}
+write here
+\chapter{Chapter2}\label{ch2}
+\section{Put a section heading here}
+write here saying remember in Chapter\ref{ch1}
+\section{Write a section title here}
+Write here you can copy the sections and just write what you want even saying section\ref{1.1}
+\section{Type Section heading here}
+write content here
+\section{Put a section heading here}
+write here
+\section{Put a section heading here}
+write here
+\section{Put a section heading here}
+write here
+write here...
+\chapter{Chapter3}\label{ch3}
+\section{Put a section heading here}
+write here
+\section{Write a section title here}
+Write here you can copy the sections and just write what you want
+\section{Type Section heading here}
+write content here
+\section{Put a section heading here}
+write here
+\section{Put a section heading here}
+write here
+\section{Put a section heading here}
+write here
+Write here...
+\chapter{Chapter4}\label{ch4}
+\section{Put a section heading here}
+write here
+\section{Write a section title here}
+Write here you can copy the sections and just write what you want
+\section{Type Section heading here}
+write content here
+\section{Put a section heading here}
+write here
+\section{Put a section heading here}
+write here
+\section{Put a section heading here}
+write here
+Write here
+\chapter{Chapter5}\label{ch5}
+\section{Put a section heading here}
+write here
+\section{Write a section title here}
+Write here you can copy the sections and just write what you want
+\section{Type Section heading here}
+write content here
+\section{Put a section heading here}
+write here
+\section{Put a section heading here}
+write here
+\section{Put a section heading here}
+write here
+write here
+\chapter{Chapter6}\label{ch6}
+\section{Put a section heading here}
+write here
+\section{Write a section title here}
+Write here you can copy the sections and just write what you want
+\section{Type Section heading here}
+write content here
+\section{Put a section heading here}
+write here
+\section{Put a section heading here}
+write here
+\section{Put a section heading here}
+write here
+\chapter{Chapter7}\label{ch7}
+\section{Put a section heading here}
+write here
+\section{Write a section title here}
+Write here you can copy the sections and just write what you want
+\section{Type Section heading here}
+write content here
+\section{Put a section heading here}
+write here
+\section{Put a section heading here}
+write here
+\section{Put a section heading here}
+write here
+\chapter{Chapter8}\label{8}
+\section{Put a section heading here}
+write here
+\section{Write a section title here}
+Write here you can copy the sections and just write what you want
+\section{Type Section heading here}
+write content here
+\section{Put a section heading here}
+write here
+\section{Put a section heading here}
+write here
+\section{Put a section heading here}
+write here
+\chapter{Chapter9}\label{9}
+\section{Put a section heading here}
+write here
+\section{Write a section title here}
+Write here you can copy the sections and just write what you want
+\section{Type Section heading here}
+write content here
+\section{Put a section heading here}
+write here
+\section{Put a section heading here}
+write here
+\section{Put a section heading here}
+write here
+\chapter{Chapter10}\label{10}
+\section{Put a section heading here}
+write here
+\section{Write a section title here}
+Write here you can copy the sections and just write what you want
+\section{Type Section heading here}
+write content here
+\section{Put a section heading here}
+write here
+\section{Put a section heading here}
+write here
+\section{Put a section heading here}
+write here
+\chapter{Chapter11}\label{ch11}
+\section{Put a section heading here}
+write here
+\section{Write a section title here}
+Write here you can copy the sections and just write what you want
+\section{Type Section heading here}
+write content here
+\section{Put a section heading here}
+write here
+\section{Put a section heading here}
+write here
+\section{Put a section heading here}
+write here
+Some text ...
+\chapter{Chapter12}\label{ch12}
+\section{Put a section heading here}
+write here
+\section{Write a section title here}
+Write here you can copy the sections and just write what you want
+\section{Type Section heading here}
+write content here
+\section{Put a section heading here}
+write here
+\section{Put a section heading here}
+write here
+\section{Put a section heading here}
+write here
+Some text ...
+\chapter{Chapter13}\label{ch13}
+\section{Put a section heading here}
+write here
+\section{Write a section title here}
+Write here you can copy the sections and just write what you want
+\section{Type Section heading here}
+write content here
+\section{Put a section heading here}
+write here
+\section{Put a section heading here}
+write here
+\section{Put a section heading here}
+write here
+Some text ...
+\chapter{Chapter14}\label{ch14}
+\section{Put a section heading here}
+write here
+\section{Write a section title here}
+Write here you can copy the sections and just write what you want
+\section{Type Section heading here}
+write content here
+\section{Put a section heading here}
+write here
+\section{Put a section heading here}
+write here
+\section{Put a section heading here}
+write here
+Some text ...
+\chapter{Chapter15}\label{ch15}
+\section{Put a section heading here}
+write here
+\section{Write a section title here}
+Write here you can copy the sections and just write what you want
+\section{Type Section heading here}
+write content here
+\section{Put a section heading here}
+write here
+\section{Put a section heading here}
+write here
+\section{Put a section heading here}
+write here
+Some text ...
+\chapter{Chapter16}\label{ch16}
+\section{Put a section heading here}
+write here
+\section{Write a section title here}
+Write here you can copy the sections and just write what you want
+\section{Type Section heading here}
+write content here
+\section{Put a section heading here}
+write here
+\section{Put a section heading here}
+write here
+\section{Put a section heading here}
+write here
+Some text ...
+\chapter{Chapter17}\label{ch17}
+\section{Put a section heading here}
+write here
+\section{Write a section title here}
+Write here you can copy the sections and just write what you want
+\section{Type Section heading here}
+write content here
+\section{Put a section heading here}
+write here
+\section{Put a section heading here}
+write here
+\section{Put a section heading here}
+write here
+Some text ...
+\chapter{Technology To Use for whatever}\label{ch18}
+\section{Put a section heading here}\label{Gd}
+write here
+\section{Write a section title here}
+Write here you can copy the sections and just write what you want gadgets \ref{ch18}
+\section{Type Section heading here}
+write content here
+\section{Put a section heading here}
+write here
+\section{Put a section heading here}
+write here
+\section{Put a section heading here}
+write here
+Some text ...
+\chapter{Answers}\label{ch19}
+\section{Answers for Chapterx}\label{ch18}
+write here
+\section{Answers for Chapterx}\label{ch18}
+Write here you can copy the sections and just write what you want
+\section{Answers for Chapterx}\label{ch18}
+write content here
+\section{Answers for Chapterx}\label{ch18}
+write here
+\section{Answers for Chapterx}\label{ch18}
+write here
+\section{Answers for Chapterx}\label{ch18}
+write here
+Some text ...
+\section{Answers for Chapterx}\label{ch18}
+write here
+\section{Answers for Chapterx}\label{ch18}
+Write here you can copy the sections and just write what you want
+\section{Answers for Chapterx}\label{ch18}
+write content here
+\section{Answers for Chapterx}\label{ch18}
+write here
+\section{Answers for Chapterx}\label{ch18}
+write here
+\section{Answers for Chapterx}\label{ch18}
+write here
+Some text ...\section{Answers for Chapterx}\label{ch18}
+write here
+\section{Answers for Chapterx}\label{ch18}
+Write here you can copy the sections and just write what you want
+\section{Answers for Chapterx}\label{ch18}
+write content here
+\section{Answers for Chapterx}\label{ch18}
+write here
+\section{Answers for Chapterx}\label{ch18}
+write here
+\section{Answers for Chapterx}\label{ch18}
+write here
+Some text ...
+\end{document}
