@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6300) (preloaded format=latex 2017.5.24)  9 SEP 2018 18:08
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6300) (preloaded format=latex 2017.5.24)  9 SEP 2018 22:32
 entering extended mode
 **./msupioneersbook.tex
 (msupioneersbook.tex
@@ -103,58 +103,52 @@ Class scrbook Info: Redefining `\numberline' on input line 6445.
 )
 (msupioneersbook.aux
 
-LaTeX Warning: Label `ch18' multiply defined.
+LaTeX Warning: Label `ch1' multiply defined.
 
 
-LaTeX Warning: Label `ch18' multiply defined.
+LaTeX Warning: Label `ch2' multiply defined.
 
 
-LaTeX Warning: Label `ch18' multiply defined.
+LaTeX Warning: Label `ch3' multiply defined.
 
 
-LaTeX Warning: Label `ch18' multiply defined.
+LaTeX Warning: Label `ch4' multiply defined.
 
 
-LaTeX Warning: Label `ch18' multiply defined.
+LaTeX Warning: Label `ch5' multiply defined.
 
 
-LaTeX Warning: Label `ch18' multiply defined.
+LaTeX Warning: Label `ch6' multiply defined.
 
 
-LaTeX Warning: Label `ch18' multiply defined.
+LaTeX Warning: Label `ch7' multiply defined.
 
 
-LaTeX Warning: Label `ch18' multiply defined.
+LaTeX Warning: Label `ch8' multiply defined.
 
 
-LaTeX Warning: Label `ch18' multiply defined.
+LaTeX Warning: Label `ch9' multiply defined.
 
 
-LaTeX Warning: Label `ch18' multiply defined.
+LaTeX Warning: Label `ch11' multiply defined.
 
 
-LaTeX Warning: Label `ch18' multiply defined.
+LaTeX Warning: Label `ch12' multiply defined.
 
 
-LaTeX Warning: Label `ch18' multiply defined.
+LaTeX Warning: Label `ch13' multiply defined.
 
 
-LaTeX Warning: Label `ch18' multiply defined.
+LaTeX Warning: Label `ch14' multiply defined.
 
 
-LaTeX Warning: Label `ch18' multiply defined.
+LaTeX Warning: Label `ch15' multiply defined.
 
 
-LaTeX Warning: Label `ch18' multiply defined.
+LaTeX Warning: Label `ch16' multiply defined.
 
 
-LaTeX Warning: Label `ch18' multiply defined.
-
-
-LaTeX Warning: Label `ch18' multiply defined.
-
-
-LaTeX Warning: Label `ch18' multiply defined.
+LaTeX Warning: Label `ch17' multiply defined.
 
 
 LaTeX Warning: Label `ch18' multiply defined.
@@ -301,12 +295,12 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 2423 strings out of 493329
- 47300 string characters out of 3136564
+ 2424 strings out of 493329
+ 47312 string characters out of 3136564
  219438 words of memory out of 3000000
- 6008 multiletter control sequences out of 15000+200000
+ 6009 multiletter control sequences out of 15000+200000
  8832 words of font info for 31 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  42i,7n,66p,9112b,229s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on msupioneersbook.dvi (44 pages, 58388 bytes).
+Output written on msupioneersbook.dvi (44 pages, 59824 bytes).

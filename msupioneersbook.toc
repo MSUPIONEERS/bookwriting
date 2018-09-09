@@ -1,123 +1,123 @@
-\contentsline {chapter}{\numberline {1}Chapter1}{1}
+\contentsline {chapter}{\numberline {1}Importance of Understanding Data}{1}
 \contentsline {section}{\numberline {1.1}Put a section heading here}{1}
 \contentsline {section}{\numberline {1.2}Write a section title here}{1}
 \contentsline {section}{\numberline {1.3}Type Section heading here}{1}
 \contentsline {section}{\numberline {1.4}Put a section heading here}{1}
 \contentsline {section}{\numberline {1.5}Put a section heading here}{1}
 \contentsline {section}{\numberline {1.6}Put a section heading here}{1}
-\contentsline {chapter}{\numberline {2}Chapter2}{3}
+\contentsline {chapter}{\numberline {2}Data Quality}{3}
 \contentsline {section}{\numberline {2.1}Put a section heading here}{3}
 \contentsline {section}{\numberline {2.2}Write a section title here}{3}
 \contentsline {section}{\numberline {2.3}Type Section heading here}{3}
 \contentsline {section}{\numberline {2.4}Put a section heading here}{3}
 \contentsline {section}{\numberline {2.5}Put a section heading here}{3}
 \contentsline {section}{\numberline {2.6}Put a section heading here}{3}
-\contentsline {chapter}{\numberline {3}Chapter3}{5}
+\contentsline {chapter}{\numberline {3}Data Modelling and Analysis}{5}
 \contentsline {section}{\numberline {3.1}Put a section heading here}{5}
 \contentsline {section}{\numberline {3.2}Write a section title here}{5}
 \contentsline {section}{\numberline {3.3}Type Section heading here}{5}
 \contentsline {section}{\numberline {3.4}Put a section heading here}{5}
 \contentsline {section}{\numberline {3.5}Put a section heading here}{5}
 \contentsline {section}{\numberline {3.6}Put a section heading here}{5}
-\contentsline {chapter}{\numberline {4}Chapter4}{7}
+\contentsline {chapter}{\numberline {4}Databases}{7}
 \contentsline {section}{\numberline {4.1}Put a section heading here}{7}
 \contentsline {section}{\numberline {4.2}Write a section title here}{7}
 \contentsline {section}{\numberline {4.3}Type Section heading here}{7}
 \contentsline {section}{\numberline {4.4}Put a section heading here}{7}
 \contentsline {section}{\numberline {4.5}Put a section heading here}{7}
 \contentsline {section}{\numberline {4.6}Put a section heading here}{7}
-\contentsline {chapter}{\numberline {5}Chapter5}{9}
+\contentsline {chapter}{\numberline {5}Introduction to Programming Concepts}{9}
 \contentsline {section}{\numberline {5.1}Put a section heading here}{9}
 \contentsline {section}{\numberline {5.2}Write a section title here}{9}
 \contentsline {section}{\numberline {5.3}Type Section heading here}{9}
 \contentsline {section}{\numberline {5.4}Put a section heading here}{9}
 \contentsline {section}{\numberline {5.5}Put a section heading here}{9}
 \contentsline {section}{\numberline {5.6}Put a section heading here}{9}
-\contentsline {chapter}{\numberline {6}Chapter6}{11}
+\contentsline {chapter}{\numberline {6}Programming Languages}{11}
 \contentsline {section}{\numberline {6.1}Put a section heading here}{11}
 \contentsline {section}{\numberline {6.2}Write a section title here}{11}
 \contentsline {section}{\numberline {6.3}Type Section heading here}{11}
 \contentsline {section}{\numberline {6.4}Put a section heading here}{11}
 \contentsline {section}{\numberline {6.5}Put a section heading here}{11}
 \contentsline {section}{\numberline {6.6}Put a section heading here}{11}
-\contentsline {chapter}{\numberline {7}Chapter7}{13}
+\contentsline {chapter}{\numberline {7}Project}{13}
 \contentsline {section}{\numberline {7.1}Put a section heading here}{13}
 \contentsline {section}{\numberline {7.2}Write a section title here}{13}
 \contentsline {section}{\numberline {7.3}Type Section heading here}{13}
 \contentsline {section}{\numberline {7.4}Put a section heading here}{13}
 \contentsline {section}{\numberline {7.5}Put a section heading here}{13}
 \contentsline {section}{\numberline {7.6}Put a section heading here}{13}
-\contentsline {chapter}{\numberline {8}Chapter8}{15}
+\contentsline {chapter}{\numberline {8}Computer Security}{15}
 \contentsline {section}{\numberline {8.1}Put a section heading here}{15}
 \contentsline {section}{\numberline {8.2}Write a section title here}{15}
 \contentsline {section}{\numberline {8.3}Type Section heading here}{15}
 \contentsline {section}{\numberline {8.4}Put a section heading here}{15}
 \contentsline {section}{\numberline {8.5}Put a section heading here}{15}
 \contentsline {section}{\numberline {8.6}Put a section heading here}{15}
-\contentsline {chapter}{\numberline {9}Chapter9}{17}
+\contentsline {chapter}{\numberline {9}Cloud Computing}{17}
 \contentsline {section}{\numberline {9.1}Put a section heading here}{17}
 \contentsline {section}{\numberline {9.2}Write a section title here}{17}
 \contentsline {section}{\numberline {9.3}Type Section heading here}{17}
 \contentsline {section}{\numberline {9.4}Put a section heading here}{17}
 \contentsline {section}{\numberline {9.5}Put a section heading here}{17}
 \contentsline {section}{\numberline {9.6}Put a section heading here}{17}
-\contentsline {chapter}{\numberline {10}Chapter10}{19}
+\contentsline {chapter}{\numberline {10}Computer Networking}{19}
 \contentsline {section}{\numberline {10.1}Put a section heading here}{19}
 \contentsline {section}{\numberline {10.2}Write a section title here}{19}
 \contentsline {section}{\numberline {10.3}Type Section heading here}{19}
 \contentsline {section}{\numberline {10.4}Put a section heading here}{19}
 \contentsline {section}{\numberline {10.5}Put a section heading here}{19}
 \contentsline {section}{\numberline {10.6}Put a section heading here}{19}
-\contentsline {chapter}{\numberline {11}Chapter11}{21}
+\contentsline {chapter}{\numberline {11}Project Support}{21}
 \contentsline {section}{\numberline {11.1}Put a section heading here}{21}
 \contentsline {section}{\numberline {11.2}Write a section title here}{21}
 \contentsline {section}{\numberline {11.3}Type Section heading here}{21}
 \contentsline {section}{\numberline {11.4}Put a section heading here}{21}
 \contentsline {section}{\numberline {11.5}Put a section heading here}{21}
 \contentsline {section}{\numberline {11.6}Put a section heading here}{21}
-\contentsline {chapter}{\numberline {12}Chapter12}{23}
+\contentsline {chapter}{\numberline {12}Computer Graphics}{23}
 \contentsline {section}{\numberline {12.1}Put a section heading here}{23}
 \contentsline {section}{\numberline {12.2}Write a section title here}{23}
 \contentsline {section}{\numberline {12.3}Type Section heading here}{23}
 \contentsline {section}{\numberline {12.4}Put a section heading here}{23}
 \contentsline {section}{\numberline {12.5}Put a section heading here}{23}
 \contentsline {section}{\numberline {12.6}Put a section heading here}{23}
-\contentsline {chapter}{\numberline {13}Chapter13}{25}
+\contentsline {chapter}{\numberline {13}Data Structures and Algorithms}{25}
 \contentsline {section}{\numberline {13.1}Put a section heading here}{25}
 \contentsline {section}{\numberline {13.2}Write a section title here}{25}
 \contentsline {section}{\numberline {13.3}Type Section heading here}{25}
 \contentsline {section}{\numberline {13.4}Put a section heading here}{25}
 \contentsline {section}{\numberline {13.5}Put a section heading here}{25}
 \contentsline {section}{\numberline {13.6}Put a section heading here}{25}
-\contentsline {chapter}{\numberline {14}Chapter14}{27}
+\contentsline {chapter}{\numberline {14}Web Development}{27}
 \contentsline {section}{\numberline {14.1}Put a section heading here}{27}
 \contentsline {section}{\numberline {14.2}Write a section title here}{27}
 \contentsline {section}{\numberline {14.3}Type Section heading here}{27}
 \contentsline {section}{\numberline {14.4}Put a section heading here}{27}
 \contentsline {section}{\numberline {14.5}Put a section heading here}{27}
 \contentsline {section}{\numberline {14.6}Put a section heading here}{27}
-\contentsline {chapter}{\numberline {15}Chapter15}{29}
+\contentsline {chapter}{\numberline {15}Apps Development}{29}
 \contentsline {section}{\numberline {15.1}Put a section heading here}{29}
 \contentsline {section}{\numberline {15.2}Write a section title here}{29}
 \contentsline {section}{\numberline {15.3}Type Section heading here}{29}
 \contentsline {section}{\numberline {15.4}Put a section heading here}{29}
 \contentsline {section}{\numberline {15.5}Put a section heading here}{29}
 \contentsline {section}{\numberline {15.6}Put a section heading here}{29}
-\contentsline {chapter}{\numberline {16}Chapter16}{31}
+\contentsline {chapter}{\numberline {16}Advanced Data Analytics Using R}{31}
 \contentsline {section}{\numberline {16.1}Put a section heading here}{31}
 \contentsline {section}{\numberline {16.2}Write a section title here}{31}
 \contentsline {section}{\numberline {16.3}Type Section heading here}{31}
 \contentsline {section}{\numberline {16.4}Put a section heading here}{31}
 \contentsline {section}{\numberline {16.5}Put a section heading here}{31}
 \contentsline {section}{\numberline {16.6}Put a section heading here}{31}
-\contentsline {chapter}{\numberline {17}Chapter17}{33}
+\contentsline {chapter}{\numberline {17}Policies Governing Project}{33}
 \contentsline {section}{\numberline {17.1}Put a section heading here}{33}
 \contentsline {section}{\numberline {17.2}Write a section title here}{33}
 \contentsline {section}{\numberline {17.3}Type Section heading here}{33}
 \contentsline {section}{\numberline {17.4}Put a section heading here}{33}
 \contentsline {section}{\numberline {17.5}Put a section heading here}{33}
-\contentsline {section}{\numberline {17.6}Put a section heading here}{33}
-\contentsline {chapter}{\numberline {18}Technology To Use for whatever}{35}
+\contentsline {section}{\numberline {17.6}Career Opportunities}{33}
+\contentsline {chapter}{\numberline {18}Technology For Financial Restricted Students}{35}
 \contentsline {section}{\numberline {18.1}Put a section heading here}{35}
 \contentsline {section}{\numberline {18.2}Write a section title here}{35}
 \contentsline {section}{\numberline {18.3}Type Section heading here}{35}
@@ -125,21 +125,21 @@
 \contentsline {section}{\numberline {18.5}Put a section heading here}{35}
 \contentsline {section}{\numberline {18.6}Put a section heading here}{35}
 \contentsline {chapter}{\numberline {19}Answers}{37}
-\contentsline {section}{\numberline {19.1}Answers for Chapterx}{37}
-\contentsline {section}{\numberline {19.2}Answers for Chapterx}{37}
-\contentsline {section}{\numberline {19.3}Answers for Chapterx}{37}
-\contentsline {section}{\numberline {19.4}Answers for Chapterx}{37}
-\contentsline {section}{\numberline {19.5}Answers for Chapterx}{37}
-\contentsline {section}{\numberline {19.6}Answers for Chapterx}{37}
-\contentsline {section}{\numberline {19.7}Answers for Chapterx}{37}
-\contentsline {section}{\numberline {19.8}Answers for Chapterx}{37}
-\contentsline {section}{\numberline {19.9}Answers for Chapterx}{38}
-\contentsline {section}{\numberline {19.10}Answers for Chapterx}{38}
-\contentsline {section}{\numberline {19.11}Answers for Chapterx}{38}
-\contentsline {section}{\numberline {19.12}Answers for Chapterx}{38}
-\contentsline {section}{\numberline {19.13}Answers for Chapterx}{38}
-\contentsline {section}{\numberline {19.14}Answers for Chapterx}{38}
-\contentsline {section}{\numberline {19.15}Answers for Chapterx}{38}
-\contentsline {section}{\numberline {19.16}Answers for Chapterx}{38}
-\contentsline {section}{\numberline {19.17}Answers for Chapterx}{38}
-\contentsline {section}{\numberline {19.18}Answers for Chapterx}{38}
+\contentsline {section}{\numberline {19.1}Answers for Chapter1}{37}
+\contentsline {section}{\numberline {19.2}Answers for Chapter2}{37}
+\contentsline {section}{\numberline {19.3}Answers for Chapter3}{37}
+\contentsline {section}{\numberline {19.4}Answers for Chapter4}{37}
+\contentsline {section}{\numberline {19.5}Answers for Chapter5}{37}
+\contentsline {section}{\numberline {19.6}Answers for Chapter6}{37}
+\contentsline {section}{\numberline {19.7}Answers for Chapter7}{37}
+\contentsline {section}{\numberline {19.8}Answers for Chapter8}{37}
+\contentsline {section}{\numberline {19.9}Answers for Chapter9}{38}
+\contentsline {section}{\numberline {19.10}Answers for Chapter10}{38}
+\contentsline {section}{\numberline {19.11}Answers for Chapter11}{38}
+\contentsline {section}{\numberline {19.12}Answers for Chapter12}{38}
+\contentsline {section}{\numberline {19.13}Answers for Chapter13}{38}
+\contentsline {section}{\numberline {19.14}Answers for Chapter14}{38}
+\contentsline {section}{\numberline {19.15}Answers for Chapter15}{38}
+\contentsline {section}{\numberline {19.16}Answers for Chapter16}{38}
+\contentsline {section}{\numberline {19.17}Answers for Chapter17}{38}
+\contentsline {section}{\numberline {19.18}Answers for Chapter18}{38}

@@ -6,9 +6,10 @@
 \maketitle
 \tableofcontents
 \mainmatter
-\chapter{Chapter1}\label{ch1}
+\chapter{Importance of Understanding Data}\label{ch1}
 \section{Put a section heading here}\label{1.1}
-write here about 
+These chapters are still drafts and let us think of the order and priorities and even changing them.
+Think of each section in each chapter and let us share your views.
 \section{Write a section title here}
 Write here you can copy the sections and just write what you want
 \section{Type Section heading here}
@@ -19,7 +20,7 @@ write here
 write here
 \section{Put a section heading here}
 write here
-\chapter{Chapter2}\label{ch2}
+\chapter{Data Quality}\label{ch2}
 \section{Put a section heading here}
 write here saying remember in Chapter\ref{ch1}
 \section{Write a section title here}
@@ -33,7 +34,7 @@ write here
 \section{Put a section heading here}
 write here
 write here...
-\chapter{Chapter3}\label{ch3}
+\chapter{Data Modelling and Analysis}\label{ch3}
 \section{Put a section heading here}
 write here
 \section{Write a section title here}
@@ -47,7 +48,7 @@ write here
 \section{Put a section heading here}
 write here
 Write here...
-\chapter{Chapter4}\label{ch4}
+\chapter{Databases}\label{ch4}
 \section{Put a section heading here}
 write here
 \section{Write a section title here}
@@ -61,7 +62,7 @@ write here
 \section{Put a section heading here}
 write here
 Write here
-\chapter{Chapter5}\label{ch5}
+\chapter{Introduction to Programming Concepts}\label{ch5}
 \section{Put a section heading here}
 write here
 \section{Write a section title here}
@@ -75,7 +76,8 @@ write here
 \section{Put a section heading here}
 write here
 write here
-\chapter{Chapter6}\label{ch6}
+\chapter{Programming Languages}\label{ch6}
+we can introduce structured and object oriented languages and concentrate on one programming language here.
 \section{Put a section heading here}
 write here
 \section{Write a section title here}
@@ -88,7 +90,8 @@ write here
 write here
 \section{Put a section heading here}
 write here
-\chapter{Chapter7}\label{ch7}
+\chapter{Project}\label{ch7}
+Students to be given a project that is either programming or databases
 \section{Put a section heading here}
 write here
 \section{Write a section title here}
@@ -101,7 +104,7 @@ write here
 write here
 \section{Put a section heading here}
 write here
-\chapter{Chapter8}\label{8}
+\chapter{Computer Security}\label{ch8}
 \section{Put a section heading here}
 write here
 \section{Write a section title here}
@@ -114,7 +117,7 @@ write here
 write here
 \section{Put a section heading here}
 write here
-\chapter{Chapter9}\label{9}
+\chapter{Cloud Computing}\label{ch9}
 \section{Put a section heading here}
 write here
 \section{Write a section title here}
@@ -127,7 +130,7 @@ write here
 write here
 \section{Put a section heading here}
 write here
-\chapter{Chapter10}\label{10}
+\chapter{Computer Networking}\label{Ch10}
 \section{Put a section heading here}
 write here
 \section{Write a section title here}
@@ -140,21 +143,7 @@ write here
 write here
 \section{Put a section heading here}
 write here
-\chapter{Chapter11}\label{ch11}
-\section{Put a section heading here}
-write here
-\section{Write a section title here}
-Write here you can copy the sections and just write what you want
-\section{Type Section heading here}
-write content here
-\section{Put a section heading here}
-write here
-\section{Put a section heading here}
-write here
-\section{Put a section heading here}
-write here
-Some text ...
-\chapter{Chapter12}\label{ch12}
+\chapter{Project Support}\label{ch11}
 \section{Put a section heading here}
 write here
 \section{Write a section title here}
@@ -168,7 +157,7 @@ write here
 \section{Put a section heading here}
 write here
 Some text ...
-\chapter{Chapter13}\label{ch13}
+\chapter{Computer Graphics}\label{ch12}
 \section{Put a section heading here}
 write here
 \section{Write a section title here}
@@ -182,7 +171,8 @@ write here
 \section{Put a section heading here}
 write here
 Some text ...
-\chapter{Chapter14}\label{ch14}
+\chapter{Data Structures and Algorithms}\label{ch13}
+This chapter can be moved to the early chapters
 \section{Put a section heading here}
 write here
 \section{Write a section title here}
@@ -196,7 +186,7 @@ write here
 \section{Put a section heading here}
 write here
 Some text ...
-\chapter{Chapter15}\label{ch15}
+\chapter{Web Development}\label{ch14}
 \section{Put a section heading here}
 write here
 \section{Write a section title here}
@@ -210,7 +200,7 @@ write here
 \section{Put a section heading here}
 write here
 Some text ...
-\chapter{Chapter16}\label{ch16}
+\chapter{Apps Development}\label{ch15}
 \section{Put a section heading here}
 write here
 \section{Write a section title here}
@@ -224,7 +214,7 @@ write here
 \section{Put a section heading here}
 write here
 Some text ...
-\chapter{Chapter17}\label{ch17}
+\chapter{Advanced Data Analytics Using R}\label{ch16}
 \section{Put a section heading here}
 write here
 \section{Write a section title here}
@@ -238,11 +228,25 @@ write here
 \section{Put a section heading here}
 write here
 Some text ...
-\chapter{Technology To Use for whatever}\label{ch18}
+\chapter{Policies Governing Project}\label{ch17}
+\section{Put a section heading here}
+write here
+\section{Write a section title here}
+Write here you can copy the sections and just write what you want
+\section{Type Section heading here}
+write content here
+\section{Put a section heading here}
+write here
+\section{Put a section heading here}
+write here
+\section{Career Opportunities}
+write here
+Some text ...
+\chapter{Technology For Financial Restricted Students}\label{ch18}
 \section{Put a section heading here}\label{Gd}
-write here
+This chapter is going to address topics on how school students and pupils can have access to technologies that can help them to do things done by people with the latest computers. This chapter is going to be done by Mr Alex Mhungu and software developer based in New Zealand.
 \section{Write a section title here}
-Write here you can copy the sections and just write what you want gadgets \ref{ch18}
+Write here you can copy the section.
 \section{Type Section heading here}
 write content here
 \section{Put a section heading here}
@@ -253,42 +257,42 @@ write here
 write here
 Some text ...
 \chapter{Answers}\label{ch19}
-\section{Answers for Chapterx}\label{ch18}
+\section{Answers for Chapter1}\label{ch1}
 write here
-\section{Answers for Chapterx}\label{ch18}
+\section{Answers for Chapter2}\label{ch2}
 Write here you can copy the sections and just write what you want
-\section{Answers for Chapterx}\label{ch18}
+\section{Answers for Chapter3}\label{ch3}
 write content here
-\section{Answers for Chapterx}\label{ch18}
+\section{Answers for Chapter4}\label{ch4}
 write here
-\section{Answers for Chapterx}\label{ch18}
+\section{Answers for Chapter5}\label{ch5}
 write here
-\section{Answers for Chapterx}\label{ch18}
+\section{Answers for Chapter6}\label{ch6}
 write here
 Some text ...
-\section{Answers for Chapterx}\label{ch18}
+\section{Answers for Chapter7}\label{ch7}
 write here
-\section{Answers for Chapterx}\label{ch18}
+\section{Answers for Chapter8}\label{ch8}
 Write here you can copy the sections and just write what you want
-\section{Answers for Chapterx}\label{ch18}
+\section{Answers for Chapter9}\label{ch9}
 write content here
-\section{Answers for Chapterx}\label{ch18}
+\section{Answers for Chapter10}\label{ch10}
 write here
-\section{Answers for Chapterx}\label{ch18}
+\section{Answers for Chapter11}\label{ch11}
 write here
-\section{Answers for Chapterx}\label{ch18}
+\section{Answers for Chapter12}\label{ch12}
 write here
-Some text ...\section{Answers for Chapterx}\label{ch18}
+\section{Answers for Chapter13}\label{ch13}
 write here
-\section{Answers for Chapterx}\label{ch18}
+\section{Answers for Chapter14}\label{ch14}
 Write here you can copy the sections and just write what you want
-\section{Answers for Chapterx}\label{ch18}
+\section{Answers for Chapter15}\label{ch15}
 write content here
-\section{Answers for Chapterx}\label{ch18}
+\section{Answers for Chapter16}\label{ch16}
 write here
-\section{Answers for Chapterx}\label{ch18}
+\section{Answers for Chapter17}\label{ch17}
 write here
-\section{Answers for Chapterx}\label{ch18}
+\section{Answers for Chapter18}\label{ch18}
 write here
 Some text ...
 \end{document}
